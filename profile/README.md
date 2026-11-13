@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=38&pause=1000&color=EB2544&background=FFFFFF00&center=true&vCenter=true&width=700&lines=React+AntiCheat;Minecraft+Cheat+Protection" alt="React AntiCheat"/></a>
 
-<p>Античит для Minecraft с анализом поворотов в бою</p>
+<p>Бесплатный античит для Minecraft с анализом поведения игроков</p>
 
 <p>
   <a href="https://react-ac.space"><img src="https://img.shields.io/badge/Website-EB2544?style=plastic&logo=googlechrome&logoColor=white" alt="Website"/></a>
@@ -60,9 +60,9 @@
 
 ## Установка
 
-Сборки Paper и Folia, требования к Java и PacketEvents описаны в [README плагина](https://github.com/react-minecraft/plugin#установка). Предварительные сборки доступны на странице [nightly](https://github.com/react-minecraft/plugin/releases/tag/nightly).
+Актуальные сборки и требования к серверу можно найти в [основном репозитории](https://github.com/react-minecraft/plugin).
 
-React устанавливает официальный RCP автоматически, когда доступен подписанный стабильный релиз для нужной версии API. Для проверки nightly можно установить [RCP вручную](https://github.com/react-minecraft/rcp#установка). Для моделей сервиса привяжите сервер к аккаунту на [react-ac.space](https://react-ac.space) командой `/react link`.
+Когда доступен подписанный стабильный релиз, плагин сам загружает RCP. Для проверки ночной сборки [поставьте RCP вручную](https://github.com/react-minecraft/rcp#что-это). Для работы с сервисом React привяжите сервер к аккаунту на [react-ac.space](https://react-ac.space) командой `/react link`.
 
 
 <div align="center">
